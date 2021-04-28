@@ -1,0 +1,18 @@
+#Triquetra README
+
+Print Settings:
+Material: CPE, PETG or some hight tg and low shrink material 
+
+Linewidth: 0.5
+Layerheight: 0.1, 0.2 or 0.25
+
+Shell must be 2mm:
+Top, bottom layers should be 2mm each (example 0.2 x 10)
+Walls should be 2mm (example 0.5 x 4)
+
+Please leave feedback if you find something to improve or if its just really good :)
+
+And if you send coffee I appretiate it:
+https://www.buymeacoffee.com/pro3d
+https://www.patreon.com/pro3d
+/roy

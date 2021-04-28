@@ -14,7 +14,7 @@ Triquetra Coldend Fan: https://s.click.aliexpress.com/e/_AqCZdw
 
 Triquetra Part Fans: https://s.click.aliexpress.com/e/_AYxBUu
 
-Triquetra Hotend - TL Dragon: https://s.click.aliexpress.com/e/_9RBaKu
+Triquetra Hotend - Dragonfly: https://s.click.aliexpress.com/e/_AU1bod 
 
 Discord Sever Invite: https://discord.gg/5nU4CqeRZm
 
